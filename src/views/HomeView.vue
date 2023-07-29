@@ -6,6 +6,9 @@ import WePartnerWith from '../components/WePartnerWith.vue';
 import Services from '../components/Services.vue';
 import TextMarquee from '../components/TextMarquee.vue';
 import Project from '../components/Project.vue';
+import Testimonial from '../components/Testimonial.vue';
+import Counter from '../components/Counter.vue'
+import Blog from "../components/Blog.vue"
 </script>
 
 <template>
@@ -17,5 +20,8 @@ import Project from '../components/Project.vue';
     <Services />
     <TextMarquee />
     <Project />
+    <Testimonial />
+    <Counter />
+    <Blog />
   </main>
 </template>

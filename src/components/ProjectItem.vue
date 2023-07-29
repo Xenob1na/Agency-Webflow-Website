@@ -1,7 +1,7 @@
 <template>
     <div>
         <router-link to="">
-            <div class="w-[406px] h-[636.20px] left-0  flex-col justify-start items-start gap-6 inline-flex cursor-pointer">
+            <div class="w-[406px] h-[636.20px] left-0  flex-col justify-start items-start gap-6  cursor-pointer delay-[140ms] transition-all hover:scale-[1.1]">
                 <div class="w-[406px] h-[549.20px] ">
                     <div class="w-[406px] h-[549.20px] left-0 top-0">
                         <img :src="project.img" alt="">
