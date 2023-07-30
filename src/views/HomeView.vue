@@ -7,8 +7,8 @@ import Services from '../components/Services.vue';
 import TextMarquee from '../components/TextMarquee.vue';
 import Project from '../components/Project.vue';
 import Testimonial from '../components/Testimonial.vue';
-import Counter from '../components/Counter.vue'
-import Blog from "../components/Blog.vue"
+import Counter from '../components/Counter.vue';
+import Blog from "../components/Blog.vue";
 </script>
 
 <template>
