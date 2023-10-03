@@ -34,5 +34,11 @@ export const useProjectStore = defineStore('projectList', {
             slug: "App Design"
          },
      ],
+     activeTab: 1,
     }),
+    actions: {
+      setActiveTab(id) {
+         this.activeTab = id;
+       },
+    }
  })
